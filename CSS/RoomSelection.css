@@ -1,0 +1,18 @@
+﻿body {
+    
+}
+
+table {
+    padding: 10px;
+}
+.smallbutton {
+    border-radius: 5px;
+    background-color:royalblue;
+}
+.smallbutton:hover {
+    background-color: white
+}
+.smallbutton:active {
+    background-color: white;
+    transform: translateY(4px);
+}
